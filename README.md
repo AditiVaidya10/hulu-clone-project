@@ -1,4 +1,4 @@
-🎬 **Hulu Clone - ReactJS Edition** 🍿
+# 🎬 **Hulu Clone - ReactJS Edition** 🍿
 
 Welcome to the thrilling world of ReactJS-powered Hulu Clone! 🚀
 
